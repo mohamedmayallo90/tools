@@ -107,7 +107,4 @@ if mo == "11":
                                 
 if mo == "12":
     os.system("exit")
-    os.system("clear")
-else:
-    os.system("clear")
-    print("Error!")       
+    os.system("clear")      
