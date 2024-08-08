@@ -1,10 +1,13 @@
 # tools
 the most famous hacking tools
-# password(ElMOZ3G)
+# password the tool(ElMOZ3G)
 $ chmod +x tool.py
 
 
-$ python3 tool.py
+$ python3 setup.py
+
+* cd the-tool
+* python3 tools.py
 
 
 
