@@ -1,7 +1,7 @@
 # tools
 the most famous hacking tools
 # password the tool(ElMOZ3G)
-
+*git clone https://github.com/mohamedmayallo90/tools.git
 * cd tools
 
 * chmod +x setup.py
