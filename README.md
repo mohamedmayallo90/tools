@@ -6,7 +6,7 @@ the most famous hacking tools
 
 
 
-*git clone https://github.com/mohamedmayallo90/tools.git
+* git clone https://github.com/mohamedmayallo90/tools.git
 * cd tools
 
 * chmod +x setup.py
