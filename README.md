@@ -4,7 +4,7 @@ the most famous hacking tools
 
 * <a href="https://www.youtube.com/@ElMOZ3G12">my youtube</a>
 
-
+* <a href="[https://www.youtube.com/@ElMOZ3G12](https://t.me/ElMOZ3G12)">Telegram Privet</a>
 
 * git clone https://github.com/mohamedmayallo90/tools.git
 * cd tools
