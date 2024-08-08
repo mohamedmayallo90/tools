@@ -1,6 +1,9 @@
 # tools
 the most famous hacking tools
 # password the tool(ElMOZ3G)
+
+* cd tools
+
 * chmod +x setup.py
 
 
